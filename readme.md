@@ -6,3 +6,4 @@ We acheived 85% accuracy on the test set.
 
 By: **Wassim EL BAKKOURI**
 **Adnane Touiyate**
+**Marouane Amzil**
