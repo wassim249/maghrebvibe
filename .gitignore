@@ -1,2 +1,6 @@
-*.csv
-data/*
+__pycache__
+.model
+*.zip
+.idea/
+*.rar
+*.Identifier
