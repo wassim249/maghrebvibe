@@ -4,6 +4,6 @@ The application can do also the **POS tagging** and **NER**
 
 We acheived 85% accuracy on the test set.
 
-By: **Wassim EL BAKKOURI**
-**Adnane Touiyate**
-**Marouane Amzil**
+By: **Wassim EL BAKKOURI**_
+**Adnane Touiyate**_
+**Maroine Amzil**
